@@ -53,6 +53,9 @@ Having been immersed in GTA V roleplay for approximately five years, my journey 
   </a>
 </p>
 
+### 📊 Stats
+![Omega248's Stats](https://github-readme-stats.vercel.app/api?username=Omega248&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+
 ### Support Me
 
 <p align="left">
