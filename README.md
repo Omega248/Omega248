@@ -1,8 +1,10 @@
 <div align="center">
-  
-# 👋 Hello, I'm Omega Scripts
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Omega%20Scripts&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Omega Scripts Logo" width="600"/>
+
+# 👋 Hello, I'm Omega Scripts
 
 ### 🎮 Self-taught Developer | FiveM QBCore Specialist | GTA V RP Enthusiast
 
