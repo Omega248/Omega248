@@ -63,7 +63,7 @@ With over five years immersed in GTA V roleplay and 3.5 years of hands-on develo
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM"/>
-  <img src="https://img.shields.io/badge/QBCore-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white" alt="QBCore"/>
+  <img src="https://img.shields.io/badge/QBCore-FF6B6B?style=for-the-badge&logoColor=white" alt="QBCore"/>
 </p>
 
 ### 🌐 Web Development
@@ -144,9 +144,9 @@ If you appreciate my scripts and want to support my development journey, conside
 
 ---
 
-### 🐍 Contribution Graph
+### 📈 Activity Graph
 
-![snake gif](https://github.com/Omega248/Omega248/blob/output/github-contribution-grid-snake.svg)
+[![Omega248's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omega248&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
